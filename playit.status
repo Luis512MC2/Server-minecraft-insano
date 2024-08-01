@@ -3472,3 +3472,1152 @@ auto-shadows.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 TUNNELS
 fitness-furthermore.gl.at.ply.gg:2183 => 127.0.0.1:2183 (minecraft-bedrock)
 auto-shadows.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722489984880 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+fitness-furthermore.gl.at.ply.gg:2183 => 127.0.0.1:2183 (minecraft-bedrock)
+auto-shadows.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722489987967 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+fitness-furthermore.gl.at.ply.gg:2183 => 127.0.0.1:2183 (minecraft-bedrock)
+auto-shadows.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722489991035 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+fitness-furthermore.gl.at.ply.gg:2183 => 127.0.0.1:2183 (minecraft-bedrock)
+auto-shadows.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722489994102 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+fitness-furthermore.gl.at.ply.gg:2183 => 127.0.0.1:2183 (minecraft-bedrock)
+auto-shadows.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722489997200 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+fitness-furthermore.gl.at.ply.gg:2183 => 127.0.0.1:2183 (minecraft-bedrock)
+auto-shadows.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722490000267 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+fitness-furthermore.gl.at.ply.gg:2183 => 127.0.0.1:2183 (minecraft-bedrock)
+auto-shadows.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722490003333 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+fitness-furthermore.gl.at.ply.gg:2183 => 127.0.0.1:2183 (minecraft-bedrock)
+auto-shadows.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722490006427 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+fitness-furthermore.gl.at.ply.gg:2183 => 127.0.0.1:2183 (minecraft-bedrock)
+auto-shadows.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722490009502 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+fitness-furthermore.gl.at.ply.gg:2183 => 127.0.0.1:2183 (minecraft-bedrock)
+auto-shadows.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722490012582 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+fitness-furthermore.gl.at.ply.gg:2183 => 127.0.0.1:2183 (minecraft-bedrock)
+auto-shadows.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722490015655 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+fitness-furthermore.gl.at.ply.gg:2183 => 127.0.0.1:2183 (minecraft-bedrock)
+auto-shadows.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722490018784 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+fitness-furthermore.gl.at.ply.gg:2183 => 127.0.0.1:2183 (minecraft-bedrock)
+auto-shadows.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722490021862 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+fitness-furthermore.gl.at.ply.gg:2183 => 127.0.0.1:2183 (minecraft-bedrock)
+auto-shadows.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722490024933 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+fitness-furthermore.gl.at.ply.gg:2183 => 127.0.0.1:2183 (minecraft-bedrock)
+auto-shadows.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722490028005 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+fitness-furthermore.gl.at.ply.gg:2183 => 127.0.0.1:2183 (minecraft-bedrock)
+auto-shadows.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722490031080 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+fitness-furthermore.gl.at.ply.gg:2183 => 127.0.0.1:2183 (minecraft-bedrock)
+auto-shadows.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(ParseError(Error("expected value", line: 1, column: 1), 500, "<html>\r\n<head><title>500 Internal Server Error</title></head>\r\n<body>\r\n<center><h1>500 Internal Server Error</h1></center>\r\n<hr><center>nginx/1.24.0 (Ubuntu)</center>\r\n</body>\r\n</html>\r\n"))
+[2J8[0mplayit (v0.15.13): 1722490040215 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+fitness-furthermore.gl.at.ply.gg:2183 => 127.0.0.1:2183 (minecraft-bedrock)
+auto-shadows.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722490043315 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+fitness-furthermore.gl.at.ply.gg:2183 => 127.0.0.1:2183 (minecraft-bedrock)
+auto-shadows.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722490046419 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+fitness-furthermore.gl.at.ply.gg:2183 => 127.0.0.1:2183 (minecraft-bedrock)
+auto-shadows.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722490049497 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+fitness-furthermore.gl.at.ply.gg:2183 => 127.0.0.1:2183 (minecraft-bedrock)
+auto-shadows.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722490052584 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+fitness-furthermore.gl.at.ply.gg:2183 => 127.0.0.1:2183 (minecraft-bedrock)
+auto-shadows.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722490055679 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+fitness-furthermore.gl.at.ply.gg:2183 => 127.0.0.1:2183 (minecraft-bedrock)
+auto-shadows.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722490058776 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+fitness-furthermore.gl.at.ply.gg:2183 => 127.0.0.1:2183 (minecraft-bedrock)
+auto-shadows.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722490061845 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+fitness-furthermore.gl.at.ply.gg:2183 => 127.0.0.1:2183 (minecraft-bedrock)
+auto-shadows.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722490064936 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+fitness-furthermore.gl.at.ply.gg:2183 => 127.0.0.1:2183 (minecraft-bedrock)
+auto-shadows.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722490068023 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+fitness-furthermore.gl.at.ply.gg:2183 => 127.0.0.1:2183 (minecraft-bedrock)
+auto-shadows.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722490071114 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+fitness-furthermore.gl.at.ply.gg:2183 => 127.0.0.1:2183 (minecraft-bedrock)
+auto-shadows.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722490074202 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+fitness-furthermore.gl.at.ply.gg:2183 => 127.0.0.1:2183 (minecraft-bedrock)
+auto-shadows.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722490077270 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+fitness-furthermore.gl.at.ply.gg:2183 => 127.0.0.1:2183 (minecraft-bedrock)
+auto-shadows.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722490080360 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+fitness-furthermore.gl.at.ply.gg:2183 => 127.0.0.1:2183 (minecraft-bedrock)
+auto-shadows.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722490083428 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+fitness-furthermore.gl.at.ply.gg:2183 => 127.0.0.1:2183 (minecraft-bedrock)
+auto-shadows.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722490086497 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+fitness-furthermore.gl.at.ply.gg:2183 => 127.0.0.1:2183 (minecraft-bedrock)
+auto-shadows.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722490089595 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+fitness-furthermore.gl.at.ply.gg:2183 => 127.0.0.1:2183 (minecraft-bedrock)
+auto-shadows.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722490092693 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+fitness-furthermore.gl.at.ply.gg:2183 => 127.0.0.1:2183 (minecraft-bedrock)
+auto-shadows.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722490095786 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+fitness-furthermore.gl.at.ply.gg:2183 => 127.0.0.1:2183 (minecraft-bedrock)
+auto-shadows.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722490098856 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+fitness-furthermore.gl.at.ply.gg:2183 => 127.0.0.1:2183 (minecraft-bedrock)
+auto-shadows.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722490101927 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+fitness-furthermore.gl.at.ply.gg:2183 => 127.0.0.1:2183 (minecraft-bedrock)
+auto-shadows.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722490105014 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+fitness-furthermore.gl.at.ply.gg:2183 => 127.0.0.1:2183 (minecraft-bedrock)
+auto-shadows.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722490108103 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+fitness-furthermore.gl.at.ply.gg:2183 => 127.0.0.1:2183 (minecraft-bedrock)
+auto-shadows.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722490111175 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+fitness-furthermore.gl.at.ply.gg:2183 => 127.0.0.1:2183 (minecraft-bedrock)
+auto-shadows.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722490114242 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+fitness-furthermore.gl.at.ply.gg:2183 => 127.0.0.1:2183 (minecraft-bedrock)
+auto-shadows.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722490117340 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+fitness-furthermore.gl.at.ply.gg:2183 => 127.0.0.1:2183 (minecraft-bedrock)
+auto-shadows.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722490120442 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+fitness-furthermore.gl.at.ply.gg:2183 => 127.0.0.1:2183 (minecraft-bedrock)
+auto-shadows.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722490123535 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+fitness-furthermore.gl.at.ply.gg:2183 => 127.0.0.1:2183 (minecraft-bedrock)
+auto-shadows.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722490126634 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+fitness-furthermore.gl.at.ply.gg:2183 => 127.0.0.1:2183 (minecraft-bedrock)
+auto-shadows.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722490129724 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+fitness-furthermore.gl.at.ply.gg:2183 => 127.0.0.1:2183 (minecraft-bedrock)
+auto-shadows.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722490132816 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+fitness-furthermore.gl.at.ply.gg:2183 => 127.0.0.1:2183 (minecraft-bedrock)
+auto-shadows.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722490135905 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+fitness-furthermore.gl.at.ply.gg:2183 => 127.0.0.1:2183 (minecraft-bedrock)
+auto-shadows.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722490138975 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+fitness-furthermore.gl.at.ply.gg:2183 => 127.0.0.1:2183 (minecraft-bedrock)
+auto-shadows.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722490142042 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+fitness-furthermore.gl.at.ply.gg:2183 => 127.0.0.1:2183 (minecraft-bedrock)
+auto-shadows.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722490145138 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+fitness-furthermore.gl.at.ply.gg:2183 => 127.0.0.1:2183 (minecraft-bedrock)
+auto-shadows.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722490148227 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+fitness-furthermore.gl.at.ply.gg:2183 => 127.0.0.1:2183 (minecraft-bedrock)
+auto-shadows.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722490151321 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+fitness-furthermore.gl.at.ply.gg:2183 => 127.0.0.1:2183 (minecraft-bedrock)
+auto-shadows.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722490154411 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+fitness-furthermore.gl.at.ply.gg:2183 => 127.0.0.1:2183 (minecraft-bedrock)
+auto-shadows.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722490157499 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+fitness-furthermore.gl.at.ply.gg:2183 => 127.0.0.1:2183 (minecraft-bedrock)
+auto-shadows.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722490160587 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+fitness-furthermore.gl.at.ply.gg:2183 => 127.0.0.1:2183 (minecraft-bedrock)
+auto-shadows.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722490163683 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+fitness-furthermore.gl.at.ply.gg:2183 => 127.0.0.1:2183 (minecraft-bedrock)
+auto-shadows.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722490166768 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+fitness-furthermore.gl.at.ply.gg:2183 => 127.0.0.1:2183 (minecraft-bedrock)
+auto-shadows.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722490169860 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+fitness-furthermore.gl.at.ply.gg:2183 => 127.0.0.1:2183 (minecraft-bedrock)
+auto-shadows.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722490172946 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+fitness-furthermore.gl.at.ply.gg:2183 => 127.0.0.1:2183 (minecraft-bedrock)
+auto-shadows.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722490176034 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+fitness-furthermore.gl.at.ply.gg:2183 => 127.0.0.1:2183 (minecraft-bedrock)
+auto-shadows.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722490179122 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+fitness-furthermore.gl.at.ply.gg:2183 => 127.0.0.1:2183 (minecraft-bedrock)
+auto-shadows.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722490182219 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+fitness-furthermore.gl.at.ply.gg:2183 => 127.0.0.1:2183 (minecraft-bedrock)
+auto-shadows.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722490185314 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+fitness-furthermore.gl.at.ply.gg:2183 => 127.0.0.1:2183 (minecraft-bedrock)
+auto-shadows.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722490188412 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+fitness-furthermore.gl.at.ply.gg:2183 => 127.0.0.1:2183 (minecraft-bedrock)
+auto-shadows.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722490191506 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+fitness-furthermore.gl.at.ply.gg:2183 => 127.0.0.1:2183 (minecraft-bedrock)
+auto-shadows.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722490194604 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+fitness-furthermore.gl.at.ply.gg:2183 => 127.0.0.1:2183 (minecraft-bedrock)
+auto-shadows.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722490197696 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+fitness-furthermore.gl.at.ply.gg:2183 => 127.0.0.1:2183 (minecraft-bedrock)
+auto-shadows.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722490200789 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+fitness-furthermore.gl.at.ply.gg:2183 => 127.0.0.1:2183 (minecraft-bedrock)
+auto-shadows.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722490203881 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+fitness-furthermore.gl.at.ply.gg:2183 => 127.0.0.1:2183 (minecraft-bedrock)
+auto-shadows.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722490206988 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+fitness-furthermore.gl.at.ply.gg:2183 => 127.0.0.1:2183 (minecraft-bedrock)
+auto-shadows.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722490210086 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+fitness-furthermore.gl.at.ply.gg:2183 => 127.0.0.1:2183 (minecraft-bedrock)
+auto-shadows.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722490213180 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+fitness-furthermore.gl.at.ply.gg:2183 => 127.0.0.1:2183 (minecraft-bedrock)
+auto-shadows.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722490216266 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+fitness-furthermore.gl.at.ply.gg:2183 => 127.0.0.1:2183 (minecraft-bedrock)
+auto-shadows.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722490219356 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+fitness-furthermore.gl.at.ply.gg:2183 => 127.0.0.1:2183 (minecraft-bedrock)
+auto-shadows.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722490222441 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+fitness-furthermore.gl.at.ply.gg:2183 => 127.0.0.1:2183 (minecraft-bedrock)
+auto-shadows.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722490225530 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+fitness-furthermore.gl.at.ply.gg:2183 => 127.0.0.1:2183 (minecraft-bedrock)
+auto-shadows.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722490228618 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+fitness-furthermore.gl.at.ply.gg:2183 => 127.0.0.1:2183 (minecraft-bedrock)
+auto-shadows.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722490231704 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+fitness-furthermore.gl.at.ply.gg:2183 => 127.0.0.1:2183 (minecraft-bedrock)
+auto-shadows.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722490234796 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+fitness-furthermore.gl.at.ply.gg:2183 => 127.0.0.1:2183 (minecraft-bedrock)
+auto-shadows.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722490237892 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+fitness-furthermore.gl.at.ply.gg:2183 => 127.0.0.1:2183 (minecraft-bedrock)
+auto-shadows.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722490240987 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+fitness-furthermore.gl.at.ply.gg:2183 => 127.0.0.1:2183 (minecraft-bedrock)
+auto-shadows.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722490244104 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+fitness-furthermore.gl.at.ply.gg:2183 => 127.0.0.1:2183 (minecraft-bedrock)
+auto-shadows.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722490247191 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+fitness-furthermore.gl.at.ply.gg:2183 => 127.0.0.1:2183 (minecraft-bedrock)
+auto-shadows.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722490250280 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+fitness-furthermore.gl.at.ply.gg:2183 => 127.0.0.1:2183 (minecraft-bedrock)
+auto-shadows.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722490253373 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+fitness-furthermore.gl.at.ply.gg:2183 => 127.0.0.1:2183 (minecraft-bedrock)
+auto-shadows.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722490256469 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+fitness-furthermore.gl.at.ply.gg:2183 => 127.0.0.1:2183 (minecraft-bedrock)
+auto-shadows.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722490259674 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+fitness-furthermore.gl.at.ply.gg:2183 => 127.0.0.1:2183 (minecraft-bedrock)
+auto-shadows.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722490262763 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+fitness-furthermore.gl.at.ply.gg:2183 => 127.0.0.1:2183 (minecraft-bedrock)
+auto-shadows.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722490265870 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+fitness-furthermore.gl.at.ply.gg:2183 => 127.0.0.1:2183 (minecraft-bedrock)
+auto-shadows.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722490268969 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+fitness-furthermore.gl.at.ply.gg:2183 => 127.0.0.1:2183 (minecraft-bedrock)
+auto-shadows.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722490272089 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+fitness-furthermore.gl.at.ply.gg:2183 => 127.0.0.1:2183 (minecraft-bedrock)
+auto-shadows.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722490275181 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+fitness-furthermore.gl.at.ply.gg:2183 => 127.0.0.1:2183 (minecraft-bedrock)
+auto-shadows.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722490278274 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+fitness-furthermore.gl.at.ply.gg:2183 => 127.0.0.1:2183 (minecraft-bedrock)
+auto-shadows.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722490281377 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+fitness-furthermore.gl.at.ply.gg:2183 => 127.0.0.1:2183 (minecraft-bedrock)
+auto-shadows.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722490284465 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+fitness-furthermore.gl.at.ply.gg:2183 => 127.0.0.1:2183 (minecraft-bedrock)
+auto-shadows.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722490287549 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+fitness-furthermore.gl.at.ply.gg:2183 => 127.0.0.1:2183 (minecraft-bedrock)
+auto-shadows.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722490290645 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+fitness-furthermore.gl.at.ply.gg:2183 => 127.0.0.1:2183 (minecraft-bedrock)
+auto-shadows.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722490293739 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+fitness-furthermore.gl.at.ply.gg:2183 => 127.0.0.1:2183 (minecraft-bedrock)
+auto-shadows.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722490296865 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+fitness-furthermore.gl.at.ply.gg:2183 => 127.0.0.1:2183 (minecraft-bedrock)
+auto-shadows.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722490299959 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+fitness-furthermore.gl.at.ply.gg:2183 => 127.0.0.1:2183 (minecraft-bedrock)
+auto-shadows.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722490303076 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+fitness-furthermore.gl.at.ply.gg:2183 => 127.0.0.1:2183 (minecraft-bedrock)
+auto-shadows.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722490306187 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+fitness-furthermore.gl.at.ply.gg:2183 => 127.0.0.1:2183 (minecraft-bedrock)
+auto-shadows.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722490309298 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+fitness-furthermore.gl.at.ply.gg:2183 => 127.0.0.1:2183 (minecraft-bedrock)
+auto-shadows.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722490312406 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+fitness-furthermore.gl.at.ply.gg:2183 => 127.0.0.1:2183 (minecraft-bedrock)
+auto-shadows.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(ParseError(Error("expected value", line: 1, column: 1), 500, "<html>\r\n<head><title>500 Internal Server Error</title></head>\r\n<body>\r\n<center><h1>500 Internal Server Error</h1></center>\r\n<hr><center>nginx/1.24.0 (Ubuntu)</center>\r\n</body>\r\n</html>\r\n"))
+[2J8[0mplayit (v0.15.13): 1722490321575 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+fitness-furthermore.gl.at.ply.gg:2183 => 127.0.0.1:2183 (minecraft-bedrock)
+auto-shadows.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722490324662 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+fitness-furthermore.gl.at.ply.gg:2183 => 127.0.0.1:2183 (minecraft-bedrock)
+auto-shadows.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722490327762 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+fitness-furthermore.gl.at.ply.gg:2183 => 127.0.0.1:2183 (minecraft-bedrock)
+auto-shadows.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722490330850 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+fitness-furthermore.gl.at.ply.gg:2183 => 127.0.0.1:2183 (minecraft-bedrock)
+auto-shadows.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722490333934 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+fitness-furthermore.gl.at.ply.gg:2183 => 127.0.0.1:2183 (minecraft-bedrock)
+auto-shadows.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722490337025 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+fitness-furthermore.gl.at.ply.gg:2183 => 127.0.0.1:2183 (minecraft-bedrock)
+auto-shadows.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722490340137 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+fitness-furthermore.gl.at.ply.gg:2183 => 127.0.0.1:2183 (minecraft-bedrock)
+auto-shadows.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722490343244 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+fitness-furthermore.gl.at.ply.gg:2183 => 127.0.0.1:2183 (minecraft-bedrock)
+auto-shadows.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722490346352 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+fitness-furthermore.gl.at.ply.gg:2183 => 127.0.0.1:2183 (minecraft-bedrock)
+auto-shadows.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722490349468 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+fitness-furthermore.gl.at.ply.gg:2183 => 127.0.0.1:2183 (minecraft-bedrock)
+auto-shadows.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722490352555 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+fitness-furthermore.gl.at.ply.gg:2183 => 127.0.0.1:2183 (minecraft-bedrock)
+auto-shadows.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722490355644 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+fitness-furthermore.gl.at.ply.gg:2183 => 127.0.0.1:2183 (minecraft-bedrock)
+auto-shadows.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722490358731 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+fitness-furthermore.gl.at.ply.gg:2183 => 127.0.0.1:2183 (minecraft-bedrock)
+auto-shadows.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722490361820 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+fitness-furthermore.gl.at.ply.gg:2183 => 127.0.0.1:2183 (minecraft-bedrock)
+auto-shadows.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722490364904 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+fitness-furthermore.gl.at.ply.gg:2183 => 127.0.0.1:2183 (minecraft-bedrock)
+auto-shadows.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722490367996 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+fitness-furthermore.gl.at.ply.gg:2183 => 127.0.0.1:2183 (minecraft-bedrock)
+auto-shadows.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722490371113 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+fitness-furthermore.gl.at.ply.gg:2183 => 127.0.0.1:2183 (minecraft-bedrock)
+auto-shadows.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722490374197 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+fitness-furthermore.gl.at.ply.gg:2183 => 127.0.0.1:2183 (minecraft-bedrock)
+auto-shadows.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722490377285 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+fitness-furthermore.gl.at.ply.gg:2183 => 127.0.0.1:2183 (minecraft-bedrock)
+auto-shadows.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722490380372 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+fitness-furthermore.gl.at.ply.gg:2183 => 127.0.0.1:2183 (minecraft-bedrock)
+auto-shadows.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722490383641 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+fitness-furthermore.gl.at.ply.gg:2183 => 127.0.0.1:2183 (minecraft-bedrock)
+auto-shadows.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722490386751 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+fitness-furthermore.gl.at.ply.gg:2183 => 127.0.0.1:2183 (minecraft-bedrock)
+auto-shadows.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722490389869 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+fitness-furthermore.gl.at.ply.gg:2183 => 127.0.0.1:2183 (minecraft-bedrock)
+auto-shadows.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722490392982 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+fitness-furthermore.gl.at.ply.gg:2183 => 127.0.0.1:2183 (minecraft-bedrock)
+auto-shadows.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722490396093 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+fitness-furthermore.gl.at.ply.gg:2183 => 127.0.0.1:2183 (minecraft-bedrock)
+auto-shadows.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722490399182 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+fitness-furthermore.gl.at.ply.gg:2183 => 127.0.0.1:2183 (minecraft-bedrock)
+auto-shadows.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722490402273 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+fitness-furthermore.gl.at.ply.gg:2183 => 127.0.0.1:2183 (minecraft-bedrock)
+auto-shadows.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722490405385 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+fitness-furthermore.gl.at.ply.gg:2183 => 127.0.0.1:2183 (minecraft-bedrock)
+auto-shadows.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722490408498 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+fitness-furthermore.gl.at.ply.gg:2183 => 127.0.0.1:2183 (minecraft-bedrock)
+auto-shadows.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722490411585 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+fitness-furthermore.gl.at.ply.gg:2183 => 127.0.0.1:2183 (minecraft-bedrock)
+auto-shadows.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722490414674 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+fitness-furthermore.gl.at.ply.gg:2183 => 127.0.0.1:2183 (minecraft-bedrock)
+auto-shadows.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722490417765 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+fitness-furthermore.gl.at.ply.gg:2183 => 127.0.0.1:2183 (minecraft-bedrock)
+auto-shadows.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722490420853 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+fitness-furthermore.gl.at.ply.gg:2183 => 127.0.0.1:2183 (minecraft-bedrock)
+auto-shadows.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722490423941 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+fitness-furthermore.gl.at.ply.gg:2183 => 127.0.0.1:2183 (minecraft-bedrock)
+auto-shadows.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722490427031 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+fitness-furthermore.gl.at.ply.gg:2183 => 127.0.0.1:2183 (minecraft-bedrock)
+auto-shadows.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722490430127 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+fitness-furthermore.gl.at.ply.gg:2183 => 127.0.0.1:2183 (minecraft-bedrock)
+auto-shadows.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722490433228 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+fitness-furthermore.gl.at.ply.gg:2183 => 127.0.0.1:2183 (minecraft-bedrock)
+auto-shadows.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722490436311 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+fitness-furthermore.gl.at.ply.gg:2183 => 127.0.0.1:2183 (minecraft-bedrock)
+auto-shadows.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722490439424 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+fitness-furthermore.gl.at.ply.gg:2183 => 127.0.0.1:2183 (minecraft-bedrock)
+auto-shadows.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(ParseError(Error("expected value", line: 1, column: 1), 500, "<html>\r\n<head><title>500 Internal Server Error</title></head>\r\n<body>\r\n<center><h1>500 Internal Server Error</h1></center>\r\n<hr><center>nginx/1.24.0 (Ubuntu)</center>\r\n</body>\r\n</html>\r\n"))
+[2J8[0mplayit (v0.15.13): 1722490448601 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+fitness-furthermore.gl.at.ply.gg:2183 => 127.0.0.1:2183 (minecraft-bedrock)
+auto-shadows.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722490451684 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+fitness-furthermore.gl.at.ply.gg:2183 => 127.0.0.1:2183 (minecraft-bedrock)
+auto-shadows.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722490454765 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+fitness-furthermore.gl.at.ply.gg:2183 => 127.0.0.1:2183 (minecraft-bedrock)
+auto-shadows.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722490457841 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+fitness-furthermore.gl.at.ply.gg:2183 => 127.0.0.1:2183 (minecraft-bedrock)
+auto-shadows.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722490460939 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+fitness-furthermore.gl.at.ply.gg:2183 => 127.0.0.1:2183 (minecraft-bedrock)
+auto-shadows.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722490464029 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+fitness-furthermore.gl.at.ply.gg:2183 => 127.0.0.1:2183 (minecraft-bedrock)
+auto-shadows.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722490467120 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+fitness-furthermore.gl.at.ply.gg:2183 => 127.0.0.1:2183 (minecraft-bedrock)
+auto-shadows.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722490470212 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+fitness-furthermore.gl.at.ply.gg:2183 => 127.0.0.1:2183 (minecraft-bedrock)
+auto-shadows.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722490473299 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+fitness-furthermore.gl.at.ply.gg:2183 => 127.0.0.1:2183 (minecraft-bedrock)
+auto-shadows.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722490476386 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+fitness-furthermore.gl.at.ply.gg:2183 => 127.0.0.1:2183 (minecraft-bedrock)
+auto-shadows.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722490479473 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+fitness-furthermore.gl.at.ply.gg:2183 => 127.0.0.1:2183 (minecraft-bedrock)
+auto-shadows.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722490482564 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+fitness-furthermore.gl.at.ply.gg:2183 => 127.0.0.1:2183 (minecraft-bedrock)
+auto-shadows.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722490485653 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+fitness-furthermore.gl.at.ply.gg:2183 => 127.0.0.1:2183 (minecraft-bedrock)
+auto-shadows.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722490488743 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+fitness-furthermore.gl.at.ply.gg:2183 => 127.0.0.1:2183 (minecraft-bedrock)
+auto-shadows.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722490491838 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+fitness-furthermore.gl.at.ply.gg:2183 => 127.0.0.1:2183 (minecraft-bedrock)
+auto-shadows.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722490494926 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+fitness-furthermore.gl.at.ply.gg:2183 => 127.0.0.1:2183 (minecraft-bedrock)
+auto-shadows.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722490498014 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+fitness-furthermore.gl.at.ply.gg:2183 => 127.0.0.1:2183 (minecraft-bedrock)
+auto-shadows.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722490501102 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+fitness-furthermore.gl.at.ply.gg:2183 => 127.0.0.1:2183 (minecraft-bedrock)
+auto-shadows.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722490504187 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+fitness-furthermore.gl.at.ply.gg:2183 => 127.0.0.1:2183 (minecraft-bedrock)
+auto-shadows.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722490507302 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+fitness-furthermore.gl.at.ply.gg:2183 => 127.0.0.1:2183 (minecraft-bedrock)
+auto-shadows.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722490510551 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+fitness-furthermore.gl.at.ply.gg:2183 => 127.0.0.1:2183 (minecraft-bedrock)
+auto-shadows.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722490513641 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+fitness-furthermore.gl.at.ply.gg:2183 => 127.0.0.1:2183 (minecraft-bedrock)
+auto-shadows.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722490516749 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+fitness-furthermore.gl.at.ply.gg:2183 => 127.0.0.1:2183 (minecraft-bedrock)
+auto-shadows.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722490519855 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+fitness-furthermore.gl.at.ply.gg:2183 => 127.0.0.1:2183 (minecraft-bedrock)
+auto-shadows.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722490522951 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+fitness-furthermore.gl.at.ply.gg:2183 => 127.0.0.1:2183 (minecraft-bedrock)
+auto-shadows.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722490526040 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+fitness-furthermore.gl.at.ply.gg:2183 => 127.0.0.1:2183 (minecraft-bedrock)
+auto-shadows.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722490529133 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+fitness-furthermore.gl.at.ply.gg:2183 => 127.0.0.1:2183 (minecraft-bedrock)
+auto-shadows.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722490532239 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+fitness-furthermore.gl.at.ply.gg:2183 => 127.0.0.1:2183 (minecraft-bedrock)
+auto-shadows.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722490535329 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+fitness-furthermore.gl.at.ply.gg:2183 => 127.0.0.1:2183 (minecraft-bedrock)
+auto-shadows.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722490538414 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+fitness-furthermore.gl.at.ply.gg:2183 => 127.0.0.1:2183 (minecraft-bedrock)
+auto-shadows.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722490541501 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+fitness-furthermore.gl.at.ply.gg:2183 => 127.0.0.1:2183 (minecraft-bedrock)
+auto-shadows.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722490544595 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+fitness-furthermore.gl.at.ply.gg:2183 => 127.0.0.1:2183 (minecraft-bedrock)
+auto-shadows.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722490547703 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+fitness-furthermore.gl.at.ply.gg:2183 => 127.0.0.1:2183 (minecraft-bedrock)
+auto-shadows.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722490550807 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+fitness-furthermore.gl.at.ply.gg:2183 => 127.0.0.1:2183 (minecraft-bedrock)
+auto-shadows.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722490553929 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+fitness-furthermore.gl.at.ply.gg:2183 => 127.0.0.1:2183 (minecraft-bedrock)
+auto-shadows.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722490557048 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+fitness-furthermore.gl.at.ply.gg:2183 => 127.0.0.1:2183 (minecraft-bedrock)
+auto-shadows.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722490560156 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+fitness-furthermore.gl.at.ply.gg:2183 => 127.0.0.1:2183 (minecraft-bedrock)
+auto-shadows.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722490563242 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+fitness-furthermore.gl.at.ply.gg:2183 => 127.0.0.1:2183 (minecraft-bedrock)
+auto-shadows.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722490566328 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+fitness-furthermore.gl.at.ply.gg:2183 => 127.0.0.1:2183 (minecraft-bedrock)
+auto-shadows.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722490569434 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+fitness-furthermore.gl.at.ply.gg:2183 => 127.0.0.1:2183 (minecraft-bedrock)
+auto-shadows.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722490572538 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+fitness-furthermore.gl.at.ply.gg:2183 => 127.0.0.1:2183 (minecraft-bedrock)
+auto-shadows.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722490575623 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+fitness-furthermore.gl.at.ply.gg:2183 => 127.0.0.1:2183 (minecraft-bedrock)
+auto-shadows.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722490578708 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+fitness-furthermore.gl.at.ply.gg:2183 => 127.0.0.1:2183 (minecraft-bedrock)
+auto-shadows.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722490581793 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+fitness-furthermore.gl.at.ply.gg:2183 => 127.0.0.1:2183 (minecraft-bedrock)
+auto-shadows.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722490584904 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+fitness-furthermore.gl.at.ply.gg:2183 => 127.0.0.1:2183 (minecraft-bedrock)
+auto-shadows.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722490588021 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+fitness-furthermore.gl.at.ply.gg:2183 => 127.0.0.1:2183 (minecraft-bedrock)
+auto-shadows.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
